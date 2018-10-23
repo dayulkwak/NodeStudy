@@ -1,2 +1,2 @@
-# Node_Study
+# NodeStudy
 노드학습
